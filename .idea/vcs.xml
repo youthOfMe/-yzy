@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yang-coupon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yang-member" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yang-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yang-product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yang-ware" vcs="Git" />
   </component>
 </project>

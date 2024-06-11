@@ -7,11 +7,22 @@
     <groupId>com.yang.study</groupId>
     <artifactId>yang-study</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>yang-study</name>
+    <description>洋哥学习系统-聚合工程</description>
+    <packaging>pom</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <modules>
+        <module>yang-ware</module>
+        <module>yang-member</module>
+        <module>yang-coupon</module>
+        <module>yang-order</module>
+        <module>yang-product</module>
+    </modules>
 
 </project>

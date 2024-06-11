@@ -4,10 +4,20 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/yang-member" />
+    <file type="web" url="file://$PROJECT_DIR$/yang-order" />
+    <file type="web" url="file://$PROJECT_DIR$/yang-ware" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-order/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-product/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-common/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-coupon/pom.xml" />
+        <option value="$PROJECT_DIR$/yang-member/pom.xml" />
       </list>
     </option>
   </component>
