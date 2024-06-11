@@ -23,6 +23,7 @@
         <module>yang-coupon</module>
         <module>yang-order</module>
         <module>yang-product</module>
+        <module>renren-fast-master</module>
     </modules>
 
 </project>
